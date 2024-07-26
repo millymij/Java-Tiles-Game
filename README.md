@@ -12,6 +12,6 @@ This game features a vertical world populated with bouncing platforms. The playe
 * Quit: Press Esc to quit the game.
 * Mouse Controls: Click on menu buttons to start or quit the game.
 
-## Dependencies:
+## Dependencies
 * Java Development Kit (JDK): Ensure you have JDK 8 or higher installed.
 * game2D Library: Custom library providing essential classes and methods for game creation.
